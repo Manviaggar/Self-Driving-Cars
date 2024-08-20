@@ -13,4 +13,7 @@ This simulation showcases how an autonomous vehicle can safely navigate through 
 - **Visual Representation**: Interactive visualization of how the neural network nodes make decisions.
 - **Future Enhancements**: Plans to introduce road curves and varying conditions to improve navigation.
 
+## Demo
+
+Check out a demo of the simulation in action: [Watch Demo Video](https://drive.google.com/file/d/19mKEGRLrLUZlzlBI0yhuHpDsWiqFtj8X/view?usp=sharing)
 
